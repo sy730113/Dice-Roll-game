@@ -1,0 +1,8 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.select{
+    display: flex;
+    justify-content: flex-end;
+}
